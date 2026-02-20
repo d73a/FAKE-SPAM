@@ -11,13 +11,13 @@
 ## تشغيل سريع
 
 ```bash
-python3 whatsapp_sender.py --to +9647734549509
+python3 watsm --to +9647734549509
 ```
 
 ## خيارات إضافية
 
 ```bash
-python3 whatsapp_sender.py \
+python3 watsm \
   --to +9647734549509 \
   -m "السلام علييكم" \
   --count 3 \
